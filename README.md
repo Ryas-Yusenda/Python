@@ -19,6 +19,7 @@
 ## 📝 Table of Content
 
 - [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)
+- [Compress Pic](Compress%20Pic/README.md)
 
 ## ✍️ Authors <a name="authors"></a>
 

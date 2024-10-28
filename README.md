@@ -18,6 +18,8 @@
 
 ## 📝 Table of Content
 
+- [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)
+
 ## ✍️ Authors <a name="authors"></a>
 
 - [@Ryas-Yusenda](https://github.com/Ryas-Yusenda) - Idea & Initial work

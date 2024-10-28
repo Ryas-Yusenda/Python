@@ -1,14 +1,3 @@
-# Compress Pic
-
-A simple tool for compressing and optimizing images.
-
-## Features
-
-- Image compression with customizable quality settings
-- Supports multiple image formats (JPG, PNG)
-- Batch processing capability
-- Maintains original aspect ratio
-
 ## Installation
 
 - Python installed on your system. [Get Python](https://www.python.org/downloads/)

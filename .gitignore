@@ -1,0 +1,7 @@
+# All
+.venv
+
+# Video Subtitle
+Video Subtitle/*.mp4
+Video Subtitle/subtitle
+Video Subtitle/video-with-subtitle

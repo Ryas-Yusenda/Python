@@ -23,6 +23,7 @@
 - [Image to Text](Image%20to%20Text/README.md)
 - [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)
 - [VENV Size Check](VENV%20Size%20Check/README.md)
+- [Video Subtitle](Video%20Subtitle/README.md)
 
 ## ✍️ Authors <a name="authors"></a>
 

@@ -21,4 +21,10 @@ A simple Python script that splits a PDF file into multiple images and compiles 
    pip install -r requirements.txt
    ```
 
-3. Double click `main.py` or run in terminal `python main.py`
+3. create file `.env` and add the following:
+
+   ```
+   API_KEY=<your_api_key>
+   ```
+
+4. Double click `main.py` or run in terminal `python main.py`

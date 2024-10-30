@@ -1,6 +1,6 @@
 <p align="center">
 <a href="" rel="noopener">
-<img width = 200px height = 200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"> </a>
+<img width = 200px height = 200px src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/python.svg" alt="Python"> </a>
 </p>
 <h3 align="center"> Python Project </h3>
 

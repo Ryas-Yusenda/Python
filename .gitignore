@@ -10,3 +10,6 @@ Video Subtitle/video-with-subtitle
 # Pdf Split
 Pdf Split/.env
 Pdf Split/**/*.pdf
+
+# Compress Video
+Compress Video/**/*.mp4

@@ -25,6 +25,14 @@
 
 4. Open your web browser and go to `http://localhost:8501` to view the Streamlit application.
 
+---
+
+Run without docker:
+
+```bash
+streamlit run app.py --server.enableXsrfProtection false
+```
+
 # Dataset
 
 - [Apple Leaf Disease Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)

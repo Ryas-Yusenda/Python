@@ -1,6 +1,7 @@
 # All
 .vscode
-.venv
+**/.venv
+**/__pycache__
 
 # Video Subtitle
 Video Subtitle/*.mp4

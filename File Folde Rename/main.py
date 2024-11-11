@@ -1,12 +1,19 @@
+"""
+This module provides functions to rename files in various formats,
+including kebab case, snake case, uppercase, and title case.
+"""
+
 import os
 import re
 
 
 def get_extension(filename):
+    """Return the file extension of the given filename."""
     return filename.split(".")[-1]
 
 
 def kebab_case(name):
+    """Convert a filename to kebab case."""
     # Menghapus ekstensi terlebih dahulu
     name, extension = os.path.splitext(name)
     # Mengubah karakter non-alfanumerik menjadi spasi
@@ -18,6 +25,7 @@ def kebab_case(name):
 
 
 def snake_case(name):
+    """Convert a filename to snake case."""
     # Menghapus ekstensi terlebih dahulu
     name, extension = os.path.splitext(name)
     # Mengubah karakter non-alfanumerik menjadi spasi
@@ -29,6 +37,7 @@ def snake_case(name):
 
 
 def uppercase(name):
+    """Convert a filename to uppercase."""
     # Menghapus ekstensi terlebih dahulu
     name, extension = os.path.splitext(name)
     # Mengubah semua karakter menjadi huruf besar
@@ -38,6 +47,7 @@ def uppercase(name):
 
 
 def title_case(name):
+    """Convert a filename to title case."""
     # Menghapus ekstensi terlebih dahulu
     name, extension = os.path.splitext(name)
     # Mengubah nama menjadi Title Case
@@ -47,6 +57,7 @@ def title_case(name):
 
 
 def main():
+    """Main function to rename files in the current directory."""
     skip_files = ["README.md", "LICENSE", ".gitignore", "main.py"]
     skip_folders = [".git", ".github"]
 

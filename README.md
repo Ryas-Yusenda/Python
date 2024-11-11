@@ -21,6 +21,7 @@
 - [Add Silent In Mp3](Add%20Silent%20In%20Mp3/README.md)
 - [Compress Pic](Compress%20Pic/README.md)
 - [Compress Video](Compress%20Video/README.md)
+- [File & Folder Rename](File%20Folder%20Rename/README.md)
 - [Image to Text](Image%20to%20Text/README.md)
 - [PDF Split](Pdf%20Split/README.md)
 - [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)

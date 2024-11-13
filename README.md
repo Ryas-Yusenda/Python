@@ -21,7 +21,6 @@
 - [Add Silent In Mp3](Add%20Silent%20In%20Mp3/README.md)
 - [Compress Pic](Compress%20Pic/README.md)
 - [Compress Video](Compress%20Video/README.md)
-- [File & Folder Rename](File%20Folder%20Rename/README.md)
 - [File Folder Ultilities](File%20Folder%20Ultilities/README.md)
 - [Image to Text](Image%20to%20Text/README.md)
 - [PDF Split](Pdf%20Split/README.md)

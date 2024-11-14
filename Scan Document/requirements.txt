@@ -1,0 +1,6 @@
+glob2
+img2pdf
+imutils
+matplotlib
+numpy
+opencv-python

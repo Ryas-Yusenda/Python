@@ -26,6 +26,7 @@
 - [PDF Split](Pdf%20Split/README.md)
 - [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)
 - [Port Scan](Port%20Scan/README.md)
+- [Scan Document](Scan%20Document/README.md)
 - [Steganography](Steganography/README.md)
 - [VENV Size Check](VENV%20Size%20Check/README.md)
 - [Video Subtitle](Video%20Subtitle/README.md)

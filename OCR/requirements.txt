@@ -1,0 +1,3 @@
+paddlepaddle-gpu
+paddleocr
+pdf2image

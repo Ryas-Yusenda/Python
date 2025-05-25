@@ -16,21 +16,20 @@
 
 ---
 
-## 📝 Table of Content
+## 🛠️ Collection of Python Tools & Projects
 
-- [Add Silent In Mp3](Add%20Silent%20In%20Mp3/README.md)
-- [Compress Pic](Compress%20Pic/README.md)
-- [Compress Video](Compress%20Video/README.md)
-- [File Folder Ultilities](File%20Folder%20Ultilities/README.md)
-- [Image to Text](Image%20to%20Text/README.md)
-- [PDF Split](Pdf%20Split/README.md)
-- [Plant Leaf Disease Detection Using CNN](Plant%20Leaf%20Disease%20Detection%20Using%20CNN/README.md)
-- [Port Scan](Port%20Scan/README.md)
-- [Scan Document](Scan%20Document/README.md)
-- [Steganography](Steganography/README.md)
-- [VENV Size Check](VENV%20Size%20Check/README.md)
-- [Video Subtitle](Video%20Subtitle/README.md)
-- [Youtube Analytics](Youtube%20Analytics/README.md)
+This repository contains a variety of tools and mini-projects that I've built using Python. Each project serves a different purpose — from simple automation scripts and data processing utilities to small command-line or GUI-based applications.
+
+## 📌 Key Features:
+
+1. A collection of reusable and modular Python scripts
+2. Brief documentation included with each project
+3. Great for learning, experimentation, and further development
+4. Open source — free to use and modify
+
+## 📁 Project Structure:
+
+Each folder in this repository represents a separate project or tool. Inside, you'll find a README.md file with details about its purpose, installation instructions, and usage.
 
 ## ✍️ Authors <a name="authors"></a>
 

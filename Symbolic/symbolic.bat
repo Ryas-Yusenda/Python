@@ -13,20 +13,20 @@
 ::egkzugNsPRvcWATEpSI=
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAjk
-::YxY4rhs+aU+JeA==
-::cxY6rQJ7JhzQF1fEqQJQ
-::ZQ05rAF9IBncCkqN+0xwdVs0
-::ZQ05rAF9IAHYFVzEqQJQ
-::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
-::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
-::cRolqwZ3JBvQF1fEqQJQ
-::dhA7uBVwLU+EWDk=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATElA==
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
+::ZQ05rAF9IAHYFVzEqQIDMRZWQwiLPyuWD7sXqMvp6uuTrV99
+::eg0/rx1wNQPfEVWB+kM9LVsJDBebMWm1Crwfpur6+4o=
+::fBEirQZwNQPfEVWB+kM9LVsJDDebMWezCL4o5+f3jw==
+::cRolqwZ3JBvQF1fEqQITJxZZTQqGcWezCLBc/Of046qTrQ0eRuc+bIqbya2DIu8f40akeZ8j3WkajMRMChRUehe5fU8humdMsSSIPMuVvQSB
+::dhA7uBVwLU+EWFyW500+KRcUfBaNNm65EtU=
+::YQ03rBFzNR3SWATE2k0+LXs=
+::dhAmsQZ3MwfNWATEVotieEkBDDabPXja
 ::ZQ0/vhVqMQ3MEVWAtB9wSA==
 ::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFAlNXxSWAE+/Fb4I5/jH/POKoEIRXeFxfZfeug==
+::dhA7pRFwIByZRRm24UxwKQgUbQCPNWWzFaEO6fz0/aqBrV9dRPAwaIrJmrKbLuMH40rqdJokwmM6
+::Zh4grVQjdCuDJH2F4EMMCxRQRQqFAFujEr0T5tTL9v6PrUMhZ/syeoDX07eyM/ke6ErofJVj02Jf+A==
 ::YB416Ek+ZW8=
 ::
 ::
@@ -38,6 +38,9 @@ setlocal enabledelayedexpansion
 cls
 echo Masukkan folder path sumber (asli):
 set /p sourcePath=Path: 
+
+:: Bersihkan tanda kutip jika user memasukkan dengan kutip
+set sourcePath=%sourcePath:"=%
 
 if "%sourcePath%"=="" (
     echo Tidak ada input. Keluar...
